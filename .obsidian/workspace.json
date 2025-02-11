@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "godot/events.md",
+                "file": "programming/csharp/frameworks/Entity Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "events"
+              "title": "Entity Framework"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "godot/events.md",
+                "file": "programming/csharp/frameworks/Entity Framework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of events"
+              "title": "Outline of Entity Framework"
             }
           }
         ],
@@ -168,19 +168,25 @@
   },
   "active": "fc07d2cbf5518594",
   "lastOpenFiles": [
-    "godot/nodes.md",
-    "godot/scenes.md",
-    "godot/events.md",
+    "programming/godot/events.md",
+    "programming/git",
+    "math",
+    "music",
+    "art/modeling",
+    "art/drawing",
+    "art",
+    "programming/godot/nodes.md",
+    "programming/godot/scenes.md",
     "2025-02-08.md",
     "templates/csharp.md",
     "templates/intermediary.md",
     "programming/csharp/frameworks/Entity Framework.md",
     "2025-02-06.md",
-    "godot",
+    "programming/godot",
     "programming/python/python_cli.md",
     "services/git.md",
     "services/ftp.md",
-    "databases/postgres.md",
+    "programming/databases/postgres.md",
     "programming/python/frameworks/django_orm.md",
     "programming/python/frameworks/django_cli.md",
     "programming/python/frameworks/django_index.md",
@@ -189,12 +195,6 @@
     "services/telnet.md",
     "services",
     "programming/csharp/frameworks",
-    "programming/csharp",
-    "programming/python/frameworks",
-    "programming/python",
-    "programming",
-    "databases",
-    "diagrams/postgresql.drawio",
-    "templates"
+    "programming/csharp"
   ]
 }
